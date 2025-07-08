@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travel-expense-app/static/css/main.e6c13ad2.css",
+    "main.js": "/travel-expense-app/static/js/main.d1838e82.js",
+    "static/js/453.6f1e893a.chunk.js": "/travel-expense-app/static/js/453.6f1e893a.chunk.js",
+    "index.html": "/travel-expense-app/index.html",
+    "main.e6c13ad2.css.map": "/travel-expense-app/static/css/main.e6c13ad2.css.map",
+    "main.d1838e82.js.map": "/travel-expense-app/static/js/main.d1838e82.js.map",
+    "453.6f1e893a.chunk.js.map": "/travel-expense-app/static/js/453.6f1e893a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d1838e82.js"
+  ]
+}
